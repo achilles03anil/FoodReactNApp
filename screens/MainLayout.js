@@ -27,7 +27,6 @@ import {
   SIZES,
 } from "../constants";
 import { Header } from "../components";
-import { getPixelSizeForLayoutSize } from "react-native/Libraries/Utilities/PixelRatio";
 
 const TabButton = ({
   label,
